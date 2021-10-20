@@ -17,7 +17,7 @@ function App() {
   return (
     <div className='w-full bg-black text-white'>
       <BrowserRouter>
-        <div className='sticky top-0 bg-black bg-opacity-100  p-2 border-b-2 border-white border-opacity-25 flex justify-around items-center md:justify-around'>
+        <div className='sticky top-0 bg-black bg-opacity-100  p-2 border-b-2 border-white border-opacity-25 flex justify-between items-center md:justify-around'>
           <div>
             <div className='p-2 text-right'>
               <div className='relative w-12 h-12'>
